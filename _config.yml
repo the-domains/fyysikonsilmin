@@ -1,0 +1,28 @@
+name: fyysikonsilmin
+favicon: null
+layout_spectrum: 0.4605674089398235
+typography_spectrum: 0.050436916295439005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3849882357753813
+  lightness: 0.18972346116788685
+  saturation: 0.6227402286604047
+  rhythmicContrast: 0.8099141691345721
+purpose: []

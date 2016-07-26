@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Fyysikon silmin]]></title>
         <description><![CDATA[Fyysikon silmin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fyysikonsilmin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 08:03:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 08:03:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fyysikonsilmin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[World's Oldest Cat Anointed by Guinness : DNews]]></title>
+            <description><![CDATA[<article><h1>World's Oldest Cat Anointed by Guinness : DNews</h1><p>A 30-year-old cat in Texas is the new poster feline for longevity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc33b5d03b0e81aecd9ce2c49f39dcaea11b25bc.jpg"></article>]]></description>
+            <link>http://news.discovery.com/animals/pets/worlds-oldest-cat-anointed-by-guinness-160511.htm</link>
+            <guid isPermaLink="false">03bc5870-2422-445e-b8d8-f21ad6f5e28b</guid>
+            <pubDate>Tue, 26 Jul 2016 08:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comet 252P/LINEAR]]></title>
+            <description><![CDATA[<article><h1>Comet 252P/LINEAR</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7100585993a17a96724d38a4690dd72fd6a1b6d5.jpg"></article>]]></description>
+            <link>https://www.spacetelescope.org/images/opo1614a/?utm_medium=social&amp;utm_campaign=SocialSignIn&amp;utm_source=Twitter</link>
+            <guid isPermaLink="false">cb23d322-7dfe-4693-822f-2c35407da0b2</guid>
+            <pubDate>Tue, 26 Jul 2016 08:03:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/86157f2febefb2dc35b2692ee7a70bd3/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCoRWIKEUsAAHV_n.jpg%3Alarge" alt="Ryhm&auml; tutkijoita kasvatti laboratoriossa syd&auml;nkudosta ihokudoksesta.">]]></description>

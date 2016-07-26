@@ -1,20 +1,4 @@
-name: Fyysikon silmin
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.58265
-title: Fyysikon silmin
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#7f7f7f'
@@ -26,4 +10,24 @@ color:
   lightness: 0.18972346116788685
   saturation: 0.6227402286604047
   rhythmicContrast: 0.8099141691345721
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Pasi Lepola
+  email: pasi.lepola@gmail.com
+  url: www.pasilepola.fi
+name: Fyysikon silmin
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Fyysikon silmin
 purpose: []

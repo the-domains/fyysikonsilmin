@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Fyysikon silmin]]></title>
         <description><![CDATA[Fyysikon silmin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fyysikonsilmin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 12:17:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Aug 2016 12:42:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fyysikonsilmin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tällä miehellä on erityisen suuri sydän]]></title>
+            <description><![CDATA[<article><h1>Tällä miehellä on erityisen suuri sydän</h1><p>57-vuotias mies meni ensiapuun koska hänellä oli turvotusta jaloissa. Oireille paljastui epätavallinen syy, hänellä oli massiivisen suuri sydän joka lääkärin arvion mukaan täytti jopa 85 % rintakehästä. Toisin kuin yleensä sydämen laajentumissa, tämän jättisydämen epäillään olevan synnynnäinen vika. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/22b22b848723547abdb3ceb88755886c/croprotate.jpg?cropheight=738&cropwidth=840&degrees=0&input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCpqIjHRUEAAz0CP.jpg%3Alarge&x=88&y=0"></article>]]></description>
+            <link>https://twitter.com/LiveScience/status/764073226322350081</link>
+            <guid isPermaLink="false">1e474454-f77f-43fb-a650-60e3cc9c27fa</guid>
+            <pubDate>Fri, 12 Aug 2016 12:42:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/86157f2febefb2dc35b2692ee7a70bd3/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCoRWIKEUsAAHV_n.jpg%3Alarge" alt="Ryhm&auml; tutkijoita kasvatti laboratoriossa syd&auml;nkudosta ihokudoksesta.">]]></description>
